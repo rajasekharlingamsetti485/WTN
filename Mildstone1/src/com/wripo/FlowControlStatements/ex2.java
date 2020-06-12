@@ -13,4 +13,5 @@ public class ex2 {
 	            System.out.println(+n+" is Odd ");
 		}
 	    }
+
 }
