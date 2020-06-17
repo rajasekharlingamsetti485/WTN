@@ -13,7 +13,11 @@ public class ex17 {
 		}
 		if(x==q)
 		{
-			
+	   System.out.println("Palindrome");
+		}
+		else
+		{
+	   System.out.println("Not a Palindrome");
 		}
 		
 }
