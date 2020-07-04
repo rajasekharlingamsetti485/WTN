@@ -1,5 +1,18 @@
 package com.wripo.day6;
+import java.io.*;
+import java.util.*;
 
-public class ex2 {
+class ex2
+{
+public int nFactorial(int input1){
 
+int i=1;
+int x=1;
+while(i<=input1){
+x=x*i;
+i++;
 }
+return x;
+}
+}
+
